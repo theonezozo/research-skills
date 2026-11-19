@@ -16,6 +16,7 @@ supporting resources. Start with the skill matching the decision you need to mak
 | [Data visualization](skills/data-visualization/SKILL.md) | Select truthful encodings, accessible presentation and useful chart checks. |
 | [JTBD definition creator](skills/jtbd-definition-creator/SKILL.md) | Extract evidence-grounded situations, motivations and outcomes without inventing gaps. |
 | [User journey mapping](skills/user-journey-mapping/SKILL.md) | Separate observations, interpretations, assumptions and gaps in a traceable journey map. |
+| [Powerful moments curation](skills/powerful-moments-curation/SKILL.md) | Select and frame verified research excerpts for a defined audience and decision. |
 | [Outset study designer](skills/outset-study-designer/SKILL.md) | Prepare AI-moderated studies, pilot checks and separately authorized launch runbooks. |
 | [PII screening](skills/pii-screening/SKILL.md) | Review privacy, confidentiality, indirect identification and release surfaces. |
 
